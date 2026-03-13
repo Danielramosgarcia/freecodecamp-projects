@@ -1,3 +1,4 @@
+//Objeto que armazena toda as informaçoes do time
 const footballTeam = {
 team: "Vasco da Gama",
 year: 2026,
