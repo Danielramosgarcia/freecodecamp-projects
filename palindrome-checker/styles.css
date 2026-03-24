@@ -1,0 +1,83 @@
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;
+    font-family: sans-serif;
+  }
+
+  h2 {
+    color: white;
+    margin-bottom: 24px;
+    font-size: 40px;
+  }
+
+  .card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 32px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  label {
+    font-size: 14px;
+    color: #333;
+  }
+
+  .input-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-bottom: 2px solid purple;
+    padding-bottom: 8px;
+  }
+
+  #text-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+  }
+
+  #check-btn {
+    background-color: purple;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  #check-btn:hover {
+    background-color: #6a0dad;
+  }
+
+  #result {
+    font-size: 16px;
+    color: #333;
+    min-height: 24px;
+  }
+  .card-explanation {
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  padding: 32px;
+  width: 400px;
+  margin-top: 16px;
+}
+
+#explanation {
+  color: white;
+  font-size: 15px;
+  line-height: 1.6;
+}
