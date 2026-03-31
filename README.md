@@ -10,3 +10,4 @@ Projetos desenvolvidos durante o curso de JavaScript do FreeCodeCamp.
 - [Theme Switcher](./theme-switcher/) - Aplicação de troca de temas com menu dropdown acessível e feedback visual usando aria-live.
 - [Palindrome Checker](./palindrome-checker/) - Aplicação que verifica se uma palavra ou frase é um palíndromo, ignorando pontuação, espaços e capitalização.
 - [Spam Filter](./spam-filter/) - Aplicação que detecta mensagens de spam usando expressões regulares para identificar padrões suspeitos.
+- [Markdown to HTML Converter](./javaScript-certification/markdown-to-HTML-converter/) - Aplicação que converte texto em Markdown para HTML em tempo real, com pré-visualização instantânea.
